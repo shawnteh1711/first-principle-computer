@@ -17,7 +17,9 @@ A transistor is a semiconductor device used to amplify or switch electrical sign
 
 ![Transistor](https://user-images.githubusercontent.com/34572151/174251545-e34ba813-f36c-48c9-b797-bef86ae0928c.png)
 
-![Structure and Symbol of Transistor](file:///Users/steh/Desktop/Structure-and-Symbol-of-BJT.jpg)
+Structure and symbol of Transistor
+<img width="809" alt="Screenshot 2022-06-17 at 17 20 43" src="https://user-images.githubusercontent.com/34572151/174269071-45d88d53-dd86-485a-9601-95197aeac748.png">
+
 
 ## Transistor as a switch
 
